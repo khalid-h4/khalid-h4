@@ -37,3 +37,22 @@ Berikut adalah *tools* dan bahasa yang saya kuasai dan sedang saya pelajari:
 ---
 
 ### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khalid-h4&show_icons=true&theme=vue&count_private=true&hide_border=true" alt="Statistik GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-h4&theme=vue&hide_border=true" alt="Streak Koding"/>
+</p>
+
+---
+
+### 🌐 Mari Terhubung
+
+Saya selalu terbuka untuk diskusi, proyek kolaborasi, atau peluang magang di bidang teknologi.
+
+| Platform | Tautan |
+| :--- | :--- |
+| **LinkedIn** | [https://www.linkedin.com/in/khlid-h4](https://www.linkedin.com/in/[khalid_h4]) |
+| **Portofolio/Website** | [https://[URL_PORTFOLIO_ANDA]](https://[URL_PORTFOLIO_ANDA]) |
+| **Email** | [mailto:[EMAIL_ANDA]](mailto:[EMAIL_ANDA]) |
+
+***
