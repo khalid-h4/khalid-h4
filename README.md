@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[GANTI_DENGAN_USERNAME_ANDA]&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=khalid-h4&style=flat-square&color=blue" alt=""/>
 </div>
 
 # 👋 Halo! Saya M. Hafidz Abdurrahman Khalid 
@@ -51,7 +51,7 @@ Saya selalu terbuka untuk diskusi, proyek kolaborasi, atau peluang magang di bid
 
 | Platform | Tautan |
 | :--- | :--- |
-| **LinkedIn** | [https://www.linkedin.com/in/khlid-h4](https://www.linkedin.com/in/[khalid_h4]) |
+| **LinkedIn** | [https://www.linkedin.com/in/khlid-h4](https://www.linkedin.com/in/[m-hafidz-abdurrahman-khalid]) |
 | **Portofolio/Website** | [https://[URL_PORTFOLIO_ANDA]](https://[URL_PORTFOLIO_ANDA]) |
 | **Email** | [mailto:[EMAIL_ANDA]](mailto:[EMAIL_ANDA]) |
 
