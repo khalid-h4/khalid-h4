@@ -51,7 +51,7 @@ Saya selalu terbuka untuk diskusi, proyek kolaborasi, atau peluang magang di bid
 
 | Platform | Tautan |
 | :--- | :--- |
-| **LinkedIn** | [https://www.linkedin.com/in/khlid-h4](https://www.linkedin.com/in/[m-hafidz-abdurrahman-khalid]) |
+| **LinkedIn** | [https://www.linkedin.com/in/m-hafidz-abdurrahman-khalid](https://www.linkedin.com/in/[m-hafidz-abdurrahman-khalid]) |
 | **Portofolio/Website** | [https://[URL_PORTFOLIO_ANDA]](https://[URL_PORTFOLIO_ANDA]) |
 | **Email** | [mailto:[EMAIL_ANDA]](mailto:[EMAIL_ANDA]) |
 
