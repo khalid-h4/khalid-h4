@@ -1,16 +1,39 @@
-## Hi there 👋ppp
-##💡 Fokus dan Keahlian SayaSaat ini, saya sedang mendalami dan berfokus pada:Bidang FokusKeterangan SingkatPengembangan Web (Frontend)Membangun antarmuka pengguna yang responsif dan intuitif menggunakan React dan JavaScript modern.Analisis Data & VisualisasiMengolah dan menafsirkan dataset besar menggunakan Python (Pandas, Matplotlib) untuk pengambilan keputusan.Cloud Computing DasarEksplorasi layanan dasar AWS (S3, EC2) untuk deployment aplikasi sederhana.
-<!--
-**khalid-h4/khalid-h4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=[GANTI_DENGAN_USERNAME_ANDA]&style=flat-square&color=blue" alt=""/>
+</div>
 
-Here are some ideas to get you started:
+# 👋 Halo! Saya M. Hafidz Abdurrahman Khalid 
+ Saya seorang mahasiswa **Ilmu dan Teknologi Komputer (ITK)** dari SEKOLAH TINGGI ILMU KOMPUTER EL RAHMA. Saya memiliki keinginan kuat untuk eksplorasi teknologi dan menciptakan solusi yang berdampak.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Fokus & Keahlian Utama
+
+| Bidang | Keterangan |
+| :--- | :--- |
+| **Pengembangan Web** | Fokus pada *Frontend* (React/Vue) dan memahami arsitektur *Full-Stack* sederhana. |
+| **Data Science** | Tertarik dalam pemrosesan data, analisis statistik, dan implementasi model *Machine Learning* dasar. |
+| **Awan Komputasi (Cloud)** | Belajar dasar-dasar AWS/Azure untuk *deployment* dan manajemen infrastruktur. |
+
+### 🛠️ Tech Stack Saya
+
+Berikut adalah *tools* dan bahasa yang saya kuasai dan sedang saya pelajari:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  
+  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
