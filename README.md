@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋ppp
+💡 Fokus dan Keahlian SayaSaat ini, saya sedang mendalami dan berfokus pada:Bidang FokusKeterangan SingkatPengembangan Web (Frontend)Membangun antarmuka pengguna yang responsif dan intuitif menggunakan React dan JavaScript modern.Analisis Data & VisualisasiMengolah dan menafsirkan dataset besar menggunakan Python (Pandas, Matplotlib) untuk pengambilan keputusan.Cloud Computing DasarEksplorasi layanan dasar AWS (S3, EC2) untuk deployment aplikasi sederhana.
 <!--
 **khalid-h4/khalid-h4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
